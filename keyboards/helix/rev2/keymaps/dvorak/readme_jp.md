@@ -93,7 +93,7 @@ $ make helix:default
 キーボードへの書き込みまで同時に行うには下記のように`:flash`を付けます。
 
 ```
-$ make helix:default:flash
+$ make helix:dvorak:flash
 ```
 
 コンパイル結果と中間生成物を消去したい場合は以下のようにします。
